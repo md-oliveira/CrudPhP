@@ -9,3 +9,4 @@ Técnologias e plataformas usadas nesse projeto
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 Sistema de Usuários simples em PhP que irá registrar , alterar e mostrar os usuários do banco de dados
+esse codigo é muito simples e carrega princípios básicos de php , inclemtente novas regras para funcionar melhor 
